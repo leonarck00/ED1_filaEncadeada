@@ -3,7 +3,7 @@
 
 Fila::Fila()
 {
-
+    inicio = 0;
 }
 bool Fila::enfileirar(Pessoa* aux)
 {

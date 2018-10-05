@@ -5,7 +5,7 @@
 class Fila
 {
 private:
-    No* inicio,final;
+    No* inicio;
 
 public:
     Fila();

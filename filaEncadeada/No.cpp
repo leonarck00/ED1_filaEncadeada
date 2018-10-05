@@ -2,7 +2,8 @@
 
 No::No()
 {
-
+    anterior = nullptr;
+    dados = nullptr;
 }
 
 void No::setAnterior(No* aux)
